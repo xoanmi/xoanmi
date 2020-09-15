@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [WebBeds](https://webbeds.com) as a Platform Engineer team leader
-- ⚡ I keep learning how to be agile, apply DevOps and keep the platform stable without going crazy
+- 🔭 I’m currently working on [Virtual Cave](https://virtualcave.io) as a SRE Technical Leader
+- 🌱 I keep learning how to be agile, apply DevOps and keep the platform stable without going crazy
+- ⚡ Hungry to learn new things every day
 
 ## Contact
 
