@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Virtual Cave](https://virtualcave.io) as a SRE Technical Leader
-- 🌱 I keep learning how to be agile, apply DevOps and keep the platform stable without going crazy
-- ⚡ Hungry to learn new things every day
+- 🔭 I’m currently enjoying solving complex problems every day at [Virtual Cave](https://virtualcave.io).
+- 🌱 I am dedicated to helping clients and partners to gain confidence in today's rapidly shifting technological landscape. Kubernetes, CI/CD, Infrastructure as Code, Cloud technologies or DevOps practices are only some of the topics that keep me busy daily in my current role as Site Reliability Engineer. 
+- ⚡ Hungry to learn new things every day.
 
 ## Contact
 
